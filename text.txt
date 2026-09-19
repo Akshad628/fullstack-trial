@@ -1,1 +1,13 @@
 lesssgooo
+git init // initialize a git file for the projects
+git add file.ext
+git status //staging area etc 
+git diff file.ext // difference in changes compared to previous commit
+git log // commited or not 
+git commit -m "mesg"// commit or create a checkpoint for all the tracked files 
+
+to add a remote repo 
+create a repo on git 
+git remote add origin https......git
+git branch -m main // change branch to main if its not by default main 
+git push -u origin main // push to main branch in git 
